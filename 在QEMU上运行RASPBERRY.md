@@ -141,9 +141,9 @@ pi@labs:~ $ sudo ifconfig eth0 172.16.0.2/24
 
 
 
-参考资料：
-https://www.jianshu.com/p/da00aea5d666
+参考资料：  
+https://www.jianshu.com/p/da00aea5d666  
 https://api-caller.com/2019/04/30/ARM-note/
 
-ssh Host key verification Failed:
+ssh Host key verification Failed:  
 https://blog.csdn.net/wd2014610/article/details/85639741
